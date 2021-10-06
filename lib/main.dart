@@ -119,7 +119,7 @@ Widget botonSuma() {
       child: Text("Sumar"),
       style: ElevatedButton.styleFrom(
         primary: Colors.green,
-        padding: EdgeInsets.symmetric(horizontal: 50, vertical: 10),
+        padding: EdgeInsets.symmetric(horizontal: 40, vertical: 10),
         textStyle: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
       ));
 }
